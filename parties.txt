@@ -1,0 +1,69 @@
+<party>
+	<name>Sojusz lewicy demokratycznej</name>
+	<shortname>SLD</shortname>
+	<doctrine>Left</doctrine>
+	<views>Social-Democracy</views>
+	<description>SLD</description>
+</party>
+
+<party>
+	<name>Prawo i Sprawiedliwość</name>
+	<shortname>PIS</shortname>
+	<doctrine>Right</doctrine>
+	<views>conservatism/views>
+	<description>PIS</description>
+</party>
+
+<party>
+	<name>Platforma Obywatelska</name>
+	<shortname>PO</shortname>
+	<doctrine>center</doctrine>
+	<views>Liberalism</views>
+	<description>PO</description>
+</party>
+
+<party>
+	<name>Polski Ruch Monarchistyczny</name>
+	<shortname>PRM</shortname>
+	<doctrine>Right</doctrine>
+	<views>monarchy</views>
+	<description>PRM/description>
+</party>
+
+<party>
+	<name>Komunistyczna Partia Polski</name>
+	<shortname>KPP</shortname>
+	<doctrine>Left</doctrine>
+	<views>communism</views>
+	<description>KPP</description>
+</party>
+
+<party>
+	<name>Polskie Stronnictwo Ludowe</name>
+	<shortname>PSL</shortname>
+	<doctrine>center</doctrine>
+	<views>Agrarianism</views>
+	<description>PSL</description>
+</party>
+
+<party>
+	<name>Twój Ruch</name>
+	<shortname>TR</shortname>
+	<doctrine>left</doctrine>
+	<views>Social-democracy</views>
+	<description>TR</description>
+</party>
+<party>
+	<name>SPZZ</name>
+	<shortname>Solidarna Polska</shortname>
+	<doctrine>right</doctrine>
+	<views>conservatism</views>
+	<description>SPZZ</description>
+</party>
+<party>
+	<name>Polska Razem</name>
+	<shortname>PRJG</shortname>
+	<doctrine>right</doctrine>
+	<views>conservatism</views>
+	<description>PRJG</description>
+</party>
